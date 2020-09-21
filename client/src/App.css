@@ -1,0 +1,13 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+.jumbotron{
+  background-color: transparent !important;
+}
+
+*{
+  margin: 0;padding: 0;
+}
